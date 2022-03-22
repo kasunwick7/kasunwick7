@@ -29,3 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kasunwick7&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kasunwick7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kasunwick7&show_icons=true&locale=en&theme=tokyonight" alt="kasunwick7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasunwick7&&theme=tokyonight" alt="kasunwick7" /></p>
